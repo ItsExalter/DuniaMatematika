@@ -150,6 +150,10 @@ img.profil {
     filter: drop-shadow(-8px 8px 0 #f09f25) drop-shadow(-4px 4px 0 #040404);
 }
 
+div.youtube-video {
+    width: 50vw;
+}
+
 @media screen and (min-width: 992px) {    
     nav {
         height: 5rem;
