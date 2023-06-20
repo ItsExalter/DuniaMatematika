@@ -33,7 +33,6 @@
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="./kd.php">KD</a></li>
             <li><a class="dropdown-item" href="./ki.php">KI</a></li>
-            <li><a class="dropdown-item" href="./tujuan.php">Tujuan</a></li>
             <li><a class="dropdown-item" href="./peta-konsep.php">Peta Konsep</a></li>
             <li><a class="dropdown-item" href="./profil.php">Profil</a></li>
           </ul>

@@ -77,7 +77,6 @@ main > svg {
 }
 
 .content-items::-webkit-scrollbar {
-    position: relative;
     width: 12px;               /* width of the entire scrollbar */
 }
 
@@ -114,7 +113,7 @@ main > svg {
 }
 
 .btn:hover, .btn:focus {
-    background-color: rgba(240, 159, 37, 1) !important;
+    background-color: #f09f25 !important;
     color: #f4f4f4;
     transition: all 0.5s ease-in-out;
     filter: drop-shadow(2px 4px 0 rgba(12, 12, 12, 1));
@@ -139,6 +138,16 @@ img {
 .img-container {
     max-width: 80vw;
     padding: .5rem;
+}
+
+img.peta {
+    max-height: 50vh;
+}
+
+img.profil {
+    max-height: 30vh;
+    border-radius: 0 0 0 100%;
+    filter: drop-shadow(-8px 8px 0 #f09f25) drop-shadow(-4px 4px 0 #040404);
 }
 
 @media screen and (min-width: 992px) {    
