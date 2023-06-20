@@ -13,8 +13,8 @@
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="./pengertian.php">Pengertian</a></li>
             <li><a class="dropdown-item" href="./unsur.php">Unsur</a></li>
-            <li><a class="dropdown-item" href="./pola-garis.php">Pola Garis</a></li>
-            <li><a class="dropdown-item" href="./kedudukan.php">Kedudukan</a></li>
+            <li><a class="dropdown-item" href="./posisi-titik.php">Posisi Titik</a></li>
+            <li><a class="dropdown-item" href="./kedudukan.php">Kedudukan Garis</a></li>
           </ul>
         </li>
         <li class="nav-item px-2 mx-2">
@@ -25,9 +25,6 @@
         </li>
         <li class="nav-item px-2 mx-2">
           <a class="nav-link text-center" href="./evaluasi.php">Evaluasi</a>
-        </li>
-        <li class="nav-item px-2 mx-2">
-          <a class="nav-link text-center" href="./pesan.php">Pesan</a>
         </li>
         <li class="nav-item dropdown px-2 mx-2">
           <a class="nav-link text-center dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
