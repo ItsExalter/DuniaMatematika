@@ -19,7 +19,7 @@
           <h1 class="drop-shadow-font">Dunia Matematika</h1>
           <h4 class="fw-normal fst-italic drop-shadow-font">"Sistem Koordinat Kartesius"</h4>
           <div class="mt-2">
-            <a name="startClass" class="btn py-1 px-3 fs-5 fw-bold border border-dark border-3" href="#" role="button">Mulai Belajar!</a>
+            <a name="startClass" class="btn py-1 px-3 fs-5 fw-bold border border-dark border-3" href="./pengertian.php" role="button">Mulai Belajar!</a>
           </div>
         </div>
         <div class="img-container" data-aos="fade-down-left" data-aos-delay="200">

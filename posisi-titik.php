@@ -14,7 +14,7 @@
     </header>
     <main class="blur">
       <div class="content-container d-flex flex-column align-items-center justify-content-center h-100">
-        <div class="bg-white content-items d-flex flex-column align-items-center justify-content-start rounded rounded-4 overflow-y-scroll">
+        <div class="bg-white content-items scroll-style d-flex flex-column align-items-center justify-content-start rounded rounded-4 overflow-y-scroll">
           <div class="d-flex flex-column align-items-center px-md-4 px-3 py-3">
             <h2 class="text-center fw-bold">Menentukan Posisi Suatu Titik Pada Sistem Koordinat</h2>
             <hr class="border border-dark border-2 opacity-75 w-75 mb-4">
