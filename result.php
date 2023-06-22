@@ -41,7 +41,7 @@
             <h2 class="text-center fw-bold">Result</h2>
             <hr class="border border-dark border-2 opacity-75 w-75 mb-4">
             
-            <div class="d-flex flex-column flex-wrap justify-content-center align-items-center">
+            <div class="d-flex flex-column flex-wrap justify-content-center align-items-center text-center">
                 <?php
                     echo "<p class=\"mb-2\"><span class=\"fw-semibold\">Hai, $name</span>, Nilaimu Adalah:</p>";
 

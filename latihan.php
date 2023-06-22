@@ -48,7 +48,15 @@
                         ++$num;
                       }
                     } else {
-                      echo "<p class=\"text-center\">No Data</p>";
+                      for ($i=1; $i <= 5 ; $i++) { 
+                        echo"
+                        <tr>
+                          <th scope=\"row\">$i</th>
+                          <td> - </td>
+                          <td> - </td>
+                        </tr>
+                        ";
+                      }
                     }
                     $conn->close();
                   ?>
