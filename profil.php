@@ -21,12 +21,12 @@
             <div class="d-flex flex-sm-row flex-column flex-wrap justify-content-center align-items-center">
               <img class="img-fluid profil mb-sm-0 mb-4" src="./assets/img/foto.png" alt="Profile Pict">
               <div class="ms-sm-4 ms-0 text-sm-start text-center">
-                <p class="mb-2"><span class="fw-semibold">Nama: <br> </span>Nova Sonia Cantika</p>
-                <p class="mb-2"><span class="fw-semibold">NIM: <br> </span>11210170000111</p>
-                <p class="mb-2"><span class="fw-semibold">Tempat, Tanggal Lahir: <br> </span>Tangerang, 15 Maret 2003</p>
-                <p class="mb-2"><span class="fw-semibold">Email: <br> </span>novacantika03@gmail.com</p>
-                <p class="mb-2"><span class="fw-semibold">Whatsapp: <br> </span>089666032186</p>
-                <p class="mb-2"><span class="fw-semibold">Instagram: <br> </span>@novactka</p>
+                <p class="mb-2"><span class="fw-semibold">Nama: <br> </span>Mochammad Arrafie</p>
+                <p class="mb-2"><span class="fw-semibold">NIM: <br> </span>00120210017</p>
+                <p class="mb-2"><span class="fw-semibold">Tempat, Tanggal Lahir: <br> </span>Bogor, 23 Januari 2003</p>
+                <p class="mb-2"><span class="fw-semibold">Email: <br> </span>itsexalter@gmail.com</p>
+                <p class="mb-2"><span class="fw-semibold">Whatsapp: <br> </span>085156173484</p>
+                <p class="mb-2"><span class="fw-semibold">Instagram: <br> </span>@itsexalter</p>
               </div>
             </div>
             <div class="mt-4 w-100 px-sm-2 px-0 d-flex flex-sm-row flex-column align-items-sm-start align-items-center justify-content-sm-start justify-content-center">
